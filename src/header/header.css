@@ -1,0 +1,26 @@
+.head{
+    display: flex;
+    margin-top: 5;
+    height:50px;
+    text-align: end;
+    width:100%;
+    
+   
+}
+
+.head3{
+    margin-left: 1000px;
+}
+.main{
+    margin-left: 650PX;
+    /* margin-left: 500px; */
+    font-size: 30px;
+    margin-top: 10px;
+    color: rgb(205, 205, 237);
+    
+ 
+}
+.bod{
+    background-color: rgb(50, 46, 46);
+    
+}
